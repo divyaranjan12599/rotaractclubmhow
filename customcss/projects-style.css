@@ -62,7 +62,7 @@ header{
     --border-size: 0.125rem;
     --duration: 250ms;
     --ease: cubic-bezier(0.215, 0.61, 0.355, 1);
-    --font-family: monospace;
+    --font-family: Comic Sans MS, Comic Sans, cursive;
     --color-primary: white;
     --color-secondary: #3b5998;
     --color-tertiary: dodgerblue;
